@@ -1,4 +1,4 @@
-import './styles.css'
-import { saludar } from './js/componentes';
+import { init } from "./js/files-page";
 
-saludar('puto gaaaaaaaaaaaaaaa');
+
+init();
